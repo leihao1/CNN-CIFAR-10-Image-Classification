@@ -18,9 +18,12 @@ Further reduce to two dimension by t-SNE in sklearn.
 ## Result
 78.8% accuracy after 10 epochs.
 
-## Run
-- Install required libraries
-- Run jupyter notebook
+## Requirement
+- Install [Anaconda](https://www.anaconda.com/)
+- Create a conda env that contain python 3.7.5: `conda create -n your_env_name python=3.7.5`
+- Activate the environment (do this every time you open a new terminal): `conda activate your_env_name`
+- Install the requirements into this conda env: `pip install --user --requirement requirements.txt`
+- Run the jupyter notebook: `jupyter notebook`
 
 ## Reference
 - [Pytorch](https://pytorch.org/docs/stable/nn.html)
