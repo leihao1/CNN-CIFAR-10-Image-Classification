@@ -16,7 +16,7 @@ Further reduce to two dimension by t-SNE in sklearn.
 ![](./image/CNN.jpg)
 
 ## Result
-78.8% accuracy after 10 epochs.
+92.8% accuracy after 30 epochs.
 
 ## Requirement
 - Install [Anaconda](https://www.anaconda.com/)
